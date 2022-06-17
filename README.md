@@ -37,8 +37,9 @@ Dart has two approaches to determine if two references are the same:
 - the **==** operator
 - the top-level functoin **identical**
 
-The **==** operator has a default implementation in class **Object** that implements
+- The **==** operator has a default implementation in class **Object** that implements
 the **identical()** function.
+- The **identical** function returns `true` if the references match
 
 An Object subclass can override it's equal operator, hashcode and string methods. Code snippet shown below:
 
