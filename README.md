@@ -1,5 +1,5 @@
- Dart Essentials
-i
+# Dart Essentials
+
 I will try to document the nuances in my app - [Tech Quest](https://tiny.one/techquestapp) problems with the tag `dart` will have solutions solved using the Dart language.
 
 - [Neetcode](./lib/neetcode)
